@@ -113,6 +113,26 @@ WHERE status = 'active';
 * Участвовать в реальных проектах
 * Развивать навыки тестирования API
 
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reeplex&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeplex&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reeplex&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reeplex&theme=tokyonight&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reeplex&theme=tokyo-night" />
+</p>
+
 ---
 
 ⭐ Спасибо за посещение моего профиля!
