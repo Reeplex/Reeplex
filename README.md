@@ -4,7 +4,7 @@
 Junior QA Engineer | Manual Testing | SQL | API Testing
 </h3>
 
-### Junior QA Engineer | Manual Testing | SQL | Postman | Git
+
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Manual-Testing-green?style=for-the-badge" />
