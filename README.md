@@ -98,11 +98,10 @@ WHERE status = 'active';
 
 ## 📬 Contact Me
 
-📧 Email: [your_email@example.com](mailto:your_email@example.com)
+📧 Email: Dimon28.08@mail.ru
 
-💬 Telegram: https://t.me/your_username
+💬 Telegram: https://t.me/d1ma_berkut
 
-💼 LinkedIn: https://linkedin.com/in/your_profile
 
 ---
 
@@ -118,7 +117,4 @@ WHERE status = 'active';
 
 ⭐ Спасибо за посещение моего профиля!
 
-
-Email: Dimon28.08@mail.ru
-Telegram: @d1ma_berkut
 
