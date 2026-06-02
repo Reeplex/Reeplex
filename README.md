@@ -50,6 +50,10 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeplex&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reeplex&theme=tokyo-night" />
 </p>
 
