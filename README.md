@@ -20,12 +20,12 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 
 ## 🚀 About Me
 
-* 🔍 Изучаю ручное тестирование веб-приложений
-* 🧪 Создаю тест-кейсы, чек-листы и баг-репорты
-* 📡 Осваиваю тестирование API через Postman
-* 🗄️ Практикую SQL для работы с базами данных
-* 🌱 Изучаю автоматизацию тестирования
-* 💼 Открыт для стажировок и позиций Junior QA Engineer
+- 🔍 Практикую тестирование веб-приложений
+- 🧪 Создаю тест-кейсы, чек-листы и баг-репорты
+- 📡 Тестирую REST API с помощью Postman
+- 🗄️ Работаю с SQL-запросами и базами данных
+- 🌱 Изучаю автоматизацию тестирования
+- 💼 Рассматриваю предложения на позиции Junior QA Engineer
 
 ---
 
@@ -43,6 +43,7 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 - 📋 Test Cases
 - 📑 Checklists
 - 🐛 Bug Reports
+
 ---
 
 ## 📈 GitHub Stats
@@ -59,21 +60,16 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 ## 📂 Portfolio
 
 ### 📋 Test Cases
-Тест-кейсы для:
-- Авторизации
-- Регистрации
-- Поиска
+🔗 [Перейти к проекту](https://github.com/Reeplex/qa-test-cases)
 
 ### 🐞 Bug Reports
-Коллекция оформленных баг-репортов.
+🔗 [Перейти к проекту](https://github.com/Reeplex/bug-reports)
 
 ### 🗄️ SQL Practice
-Решения учебных SQL-задач.
+🔗 [Перейти к проекту](https://github.com/Reeplex/sql-practice)
 
 ### 📡 API Testing
-Коллекции Postman и сценарии тестирования REST API.
-
-### 🌐 Website Testing
+🔗 [Перейти к проекту](https://github.com/Reeplex/api-testing-postman)
 
 Практические примеры тестирования веб-приложений:
 
@@ -85,19 +81,9 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 
 ### 🗄️ SQL Practice
 
-Учебные задания и решения SQL-запросов:
+Коллекция SQL-запросов и решений учебных задач по работе с базами данных.
 
-```sql
-SELECT *
-FROM Users
-WHERE status = 'active';
-```
 
-### 📡 API Testing
-
-Коллекции Postman и сценарии тестирования API.
-
----
 
 ## 🤝 Open to Work
 
