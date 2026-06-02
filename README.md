@@ -1,6 +1,16 @@
-# 👋 Привет, я Дмитрий
+<h1 align="center">👋 Привет, я Дмитрий</h1>
+
+<h3 align="center">
+Junior QA Engineer | Manual Testing | SQL | API Testing
+</h3>
 
 ### Junior QA Engineer | Manual Testing | SQL | Postman | Git
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Manual-Testing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-API-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Database-blueviolet?style=for-the-badge" />
+</p>
 
 Добро пожаловать в мой GitHub-профиль!
 
@@ -21,29 +31,47 @@
 
 ## 🛠️ Tech Stack
 
-| Категория       | Технологии                                                                        |
-| --------------- | --------------------------------------------------------------------------------- |
-| Testing         | Manual Testing, Functional Testing, Regression Testing, Smoke Testing, UI Testing |
-| API Testing     | Postman, REST API                                                                 |
-| Databases       | SQL, MySQL                                                                        |
-| Bug Tracking    | Jira, Trello                                                                      |
-| Browser Tools   | Chrome DevTools                                                                   |
-| Version Control | Git, GitHub                                                                       |
-| Documentation   | Markdown, Google Docs, Excel                                                      |
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,mysql" />
+</p>
 
+- 🧪 Manual Testing
+- 📡 Postman
+- 🗄️ SQL
+- 🐞 Jira
+- 🌐 Chrome DevTools
+- 📋 Test Cases
+- 📑 Checklists
+- 🐛 Bug Reports
 ---
 
-## 📂 Portfolio Projects
+## 📈 GitHub Stats
 
-### 📋 QA Portfolio
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reeplex&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeplex&layout=compact&theme=tokyonight"/>
+</p>
 
-Коллекция тестовой документации:
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeplex&theme=tokyonight"/>
+</p>
 
-* Тест-кейсы
-* Чек-листы
-* Баг-репорты
-* Отчеты о тестировании
-* Юзабилити-аудиты
+## 📂 Portfolio
+
+### 📋 Test Cases
+Тест-кейсы для:
+- Авторизации
+- Регистрации
+- Поиска
+
+### 🐞 Bug Reports
+Коллекция оформленных баг-репортов.
+
+### 🗄️ SQL Practice
+Решения учебных SQL-задач.
+
+### 📡 API Testing
+Коллекции Postman и сценарии тестирования REST API.
 
 ### 🌐 Website Testing
 
@@ -86,9 +114,9 @@ WHERE status = 'active';
 
 ## 📬 Contact Me
 
-📧 Email: Dimon28.08@mail.ru
+[![Telegram](https://img.shields.io/badge/Telegram-@d1ma__berkut-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/d1ma_berkut)
 
-💬 Telegram: https://t.me/d1ma_berkut
+[![Email](https://img.shields.io/badge/Email-Dimon28.08@mail.ru-red?style=for-the-badge&logo=gmail)](mailto:Dimon28.08@mail.ru)
 
 
 ---
