@@ -1,16 +1,46 @@
-## Hi there 👋
+# Привет! Меня зовут Дмитрий 👋
 
-<!--
-**Reeplex/Reeplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий QA Engineer.
 
-Here are some ideas to get you started:
+## Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ручное тестирование
+- Функциональное тестирование
+- Smoke, Regression, UI Testing
+- Тест-кейсы
+- Чек-листы
+- Баг-репорты
+- SQL
+- Postman
+- Git/GitHub
+
+## Инструменты
+
+- Jira
+- Trello
+- Postman
+- DevTools
+- MySQL
+- Git
+
+## Мои проекты
+
+### Тестирование сайта интернет-магазина
+- Чек-лист
+- Тест-кейсы
+- Баг-репорты
+
+### API Testing
+- Коллекция Postman
+- Тестирование REST API
+
+### SQL Practice
+- Запросы SELECT
+- JOIN
+- GROUP BY
+
+## Контакты
+
+Email: Dimon28.08@mail.ru
+Telegram: @d1ma_berkut
+
