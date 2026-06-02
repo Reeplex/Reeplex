@@ -4,12 +4,15 @@
 Junior QA Engineer | Manual Testing | SQL | API Testing
 </h3>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Manual-Testing-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-API-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-Database-blueviolet?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reeplex&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 Добро пожаловать в мой GitHub-профиль!
@@ -31,7 +34,7 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mysql" />
 </p>
 
@@ -60,29 +63,24 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 ## 📂 Portfolio
 
 ### 📋 Test Cases
+Тест-кейсы для авторизации, регистрации, поиска и личного кабинета.
+
 🔗 [Перейти к проекту](https://github.com/Reeplex/qa-test-cases)
 
 ### 🐞 Bug Reports
+Коллекция баг-репортов с описанием дефектов, шагами воспроизведения и ожидаемыми результатами.
+
 🔗 [Перейти к проекту](https://github.com/Reeplex/bug-reports)
 
 ### 🗄️ SQL Practice
+Решения учебных SQL-задач и примеры запросов к базам данных.
+
 🔗 [Перейти к проекту](https://github.com/Reeplex/sql-practice)
 
 ### 📡 API Testing
+Коллекции Postman и сценарии тестирования REST API.
+
 🔗 [Перейти к проекту](https://github.com/Reeplex/api-testing-postman)
-
-Практические примеры тестирования веб-приложений:
-
-* Авторизация
-* Регистрация
-* Поиск
-* Личный кабинет
-* Навигация сайта
-
-### 🗄️ SQL Practice
-
-Коллекция SQL-запросов и решений учебных задач по работе с базами данных.
-
 
 
 ## 🤝 Open to Work
@@ -116,6 +114,13 @@ Junior QA Engineer | Manual Testing | SQL | API Testing
 * Развивать навыки тестирования API
 
 ---
+
+## 📚 Currently Learning
+
+- Python for Test Automation
+- Selenium WebDriver
+- Pytest
+- API Automation Testing
 
 ⭐ Спасибо за посещение моего профиля!
 
